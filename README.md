@@ -1,2 +1,2 @@
-# Pandas-Objects
+# Python
 This repo contains Basics of Python
